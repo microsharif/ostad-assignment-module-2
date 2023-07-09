@@ -30,7 +30,7 @@ const arr = [10, 20, 30, 40]
  */
 const sumNumbers = (...numbers) => numbers.reduce( (total, num) =>  total + num )
 
-console.log(sumNumbers(1, 2, 3, 4, 5))
+//console.log(sumNumbers(1, 2, 3, 4, 5))
 
 
 /* -----Exercise 03----- */
